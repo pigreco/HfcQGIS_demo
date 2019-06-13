@@ -109,6 +109,6 @@ condividi con #hfcqgis #qgis @opendatasicilia
 
 ### grazie per l'attenzione
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="../img/fine.png" width="900" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/fine.png" width="900" title="#HfcQGIS"></a>
 </p>
 
