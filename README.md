@@ -114,3 +114,68 @@ condividi con #hfcqgis #qgis @opendatasicilia
 <p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/fine.png" width="900" title="#HfcQGIS"></a>
 </p>
 
+---
+
+### Perché è utile usare il field calc/espressioni
+
+Il field calc agisce direttamente nella tabella attributi e NON crea altri layer
+
+--
+
+### Esempio1 - Spatial Join
+
+Supponiamo di avere dei punti, uno per ogni regione italiana, e volessimo associare il relativo nome della regione in cui ricade:
+
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_01.png" width="700" title="#HfcQGIS"></a>
+</p>
+
+--
+
+## da Processing
+
+Unisci attributi per posizione
+
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_02.png" width="800" title="#HfcQGIS"></a>
+</p>
+
+**OTTENGO ALTRO LAYER**
+
+--
+
+## Usando il field calc
+
+Aggiungo il campo nel layer (molto più utile, no??)
+
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_03.png" width="800" title="#HfcQGIS"></a>
+</p>
+
+--
+
+```
+aggregate(
+    layer:='regioni_g', 
+    aggregate:='concatenate', 
+    expression:=to_string("DEN_REG"), 
+    filter:=contains( $geometry, geometry(@parent) )
+        )
+```
+
+--
+
+### Esempio2 - Spatial Join
+
+Conta punti nel poligono:
+
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_04.png" width="700" title="#HfcQGIS"></a>
+</p>
+
+--
+
+```
+aggregate(
+    layer:='punti',
+    aggregate:='count', 
+    expression:="id", 
+    filter:=intersects( $geometry, geometry(@parent))
+        )
+```
