@@ -2,7 +2,7 @@
 theme : "black"
 transition: "zoom"
 highlightTheme: "darkula"
-logoImg: "./doc/logo_RTD_def_2.png"
+logoImg: "./img/logo_RTD_def_2.png"
 slideNumber: true
 ---
 
@@ -17,7 +17,7 @@ Presentazione **[#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/)**
 
 al primo **QGIS Summer Camp** Padova 5/7 Luglio 2019
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./doc/loc_HfcQGIS2.png" width="400" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./img/loc_HfcQGIS2.png" width="400" title="#HfcQGIS"></a>
 </p>
 
 ---
@@ -28,17 +28,17 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull’uso de
 
 --
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./doc/hfc003.png" width="600" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./img/hfc003.png" width="600" title="#HfcQGIS"></a>
 </p>
 
 --
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./doc/hfc002.png" width="600" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./img/hfc002.png" width="600" title="#HfcQGIS"></a>
 </p>
 
 --
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./doc/hfc001.png" width="600" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_blank"><img src="./img/hfc001.png" width="600" title="#HfcQGIS"></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull’uso de
 Questa versione in formato **[Read The Docs](https://docs.readthedocs.io/en/latest/index.html)** è stata realizzata dalla comunità [OpenDataSicilia](http://opendatasicilia.it), in particolare da: [Andrea Borruso](https://twitter.com/aborruso), [Totò Fiandaca](https://twitter.com/totofiandaca) e [Giovan Battista Vitrano](https://twitter.com/gbvitrano).
 L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è [Ciro Spataro](https://twitter.com/cirospat).
 
-<p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="./doc/face4ods.png" width="550" title="opendatasicilia.it"></a>
+<p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="./img/face4ods.png" width="550" title="opendatasicilia.it"></a>
 </p>
 
 ---
@@ -61,12 +61,12 @@ L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di 
 * gruppo Telegram https://t.me/opendatasicilia.
 
 
-<p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="./doc/ods_logo_esa.png" width="150" title="opendatasicilia.it"></a>
+<p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="./img/ods_logo_esa.png" width="150" title="opendatasicilia.it"></a>
 </p>
 
 --
 
-<p align="center"> <a href="http://ods16.opendatasicilia.it/" target="_blank"><img src="./doc/ods16ME.png" width="1550" title="opendatasicilia.it"></a>
+<p align="center"> <a href="http://ods16.opendatasicilia.it/" target="_blank"><img src="./img/ods16ME.png" width="1550" title="opendatasicilia.it"></a>
 </p>
 
 [Google Photos Opendatasicilia - LODS1](https://photos.google.com/share/AF1QipOY9E7G5GnRmjyR-ylXVd5aG2PTIIQqOucUIgkzP7OGCWXC1urcyXhOGTN6q2pWqA?key=Z0tZZXpUOGp0SS00UlNmQlhEcTZFaXBsRFU4bzlB)
@@ -82,7 +82,7 @@ HfcQGIS è un manuale che spiega come usare il calcolatore di campi e le relativ
 
 ## Come usarlo
 
-<p align="center"> <a href="http://ods16.opendatasicilia.it/" target="_blank"><img src="./doc/pc_cell.png" width="500" title="opendatasicilia.it"></a>
+<p align="center"> <a href="http://ods16.opendatasicilia.it/" target="_blank"><img src="./img/pc_cell.png" width="500" title="opendatasicilia.it"></a>
 </p>
 
 --
@@ -99,19 +99,19 @@ condividi con #hfcqgis #qgis @opendatasicilia
 
 ## Come è organizzata
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/index.html" target="_blank"><img src="./doc/home.png" width="900" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/index.html" target="_blank"><img src="./img/home.png" width="900" title="#HfcQGIS"></a>
 </p>
 
 --
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/index.html" target="_blank"><img src="./doc/home_cell.png" width="900" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/index.html" target="_blank"><img src="./img/home_cell.png" width="900" title="#HfcQGIS"></a>
 </p>
 
 ---
 
 ### grazie per l'attenzione
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/fine.png" width="900" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/fine.png" width="900" title="#HfcQGIS"></a>
 </p>
 
 ---
@@ -126,7 +126,7 @@ Il field calc agisce direttamente nella tabella attributi e NON crea altri layer
 
 Supponiamo di avere dei punti, uno per ogni regione italiana, e volessimo associare il relativo nome della regione in cui ricade:
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_01.png" width="700" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_01.png" width="700" title="#HfcQGIS"></a>
 </p>
 
 --
@@ -135,7 +135,7 @@ Supponiamo di avere dei punti, uno per ogni regione italiana, e volessimo associ
 
 Unisci attributi per posizione
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_02.png" width="800" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_02.png" width="800" title="#HfcQGIS"></a>
 </p>
 
 **OTTENGO ALTRO LAYER**
@@ -146,7 +146,7 @@ Unisci attributi per posizione
 
 Aggiungo il campo nel layer (molto più utile, no??)
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_03.png" width="800" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_03.png" width="800" title="#HfcQGIS"></a>
 </p>
 
 --
@@ -166,7 +166,7 @@ aggregate(
 
 Conta punti nel poligono:
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./doc/esempi/sj_04.png" width="700" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_04.png" width="700" title="#HfcQGIS"></a>
 </p>
 
 --
