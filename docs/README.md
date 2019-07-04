@@ -1,11 +1,3 @@
----
-theme : "black"
-transition: "zoom"
-highlightTheme: "darkula"
-logoImg: "./img/logo_RTD_def_2.png"
-slideNumber: true
----
-
 ## HfcQGIS
 Help funzioni calcolatore di campi di QGIS
 
