@@ -120,7 +120,7 @@ Supponiamo di avere dei punti, uno per ogni regione italiana, e volessimo associ
 
 Unisci attributi per posizione
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_02.png" width="700" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/esempi/sj_02.png" width="600" title="#HfcQGIS"></a>
 </p>
 
 **OTTENGO ALTRO LAYER**
@@ -169,5 +169,5 @@ aggregate(
 
 ### grazie per l'attenzione
 
-<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/fine.png" width="900" title="#HfcQGIS"></a>
+<p align="center"> <a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_38.html" target="_blank"><img src="./img/fine.png" width="700" title="#HfcQGIS"></a>
 </p>
